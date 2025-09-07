@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://superchill.org
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Homepagina
+  <img src="readme-images/homepagina.png" width="375px" alt="Homepagina van superchill.org">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Fris en rustig koppie voor het slapen gaan
+  <img src="readme-images/frisenrustigkoppie.png" width="375px" alt="Fris en rustig koppie voor het slapen gaan pagina website superchill.org">
  
 </details>
 
@@ -57,6 +57,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - Niet HTML gevalideerd
+  - Niet alle afbeeldingen hebben een alt attribute
+  - Afbeeldingen die tekst bevatten hebben geen alt attribute met de tekst daarin
+  - Light en dark mode worden niet ondersteund
+  - High-contrast mode wordt ook niet ondersteund
 
 </details>
 
@@ -68,10 +73,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/homepagina-breakdown.png width=375px" alt="breakdown van de hele homepagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/pagina2-breakdown.png" width="375px" alt="breakdown van de fris en rustig koppie voor het slapen gaan pagina">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
