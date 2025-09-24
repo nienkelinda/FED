@@ -479,17 +479,16 @@ footer ul a {
 
 footer ul:nth-of-type(2) {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 50% 1fr;
+	width: 100%;
 	gap: 0;
 	justify-content: space-between;
 }
 
 footer ul:nth-of-type(2) li:first-of-type {
 	order: 1;
-}
-
-footer ul:nth-of-type(2) li:not(:first-of-type) {
-	grid-column: 2 / 3;
+	grid-column: 1 / 2;
+	grid-row: 1;
 }
 
 footer ul:nth-of-type(2) p {
@@ -501,3 +500,8 @@ footer ul:nth-of-type(2) i {
 	color: var(--white);
 }
 
+footer ul > ul {
+	display: flex;
+	grid-column: 2 / 3;
+	grid-row: 1;
+}
