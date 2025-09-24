@@ -35,7 +35,7 @@ body {
 	grid-template-columns: repeat(20, minmax(0, 1fr)); */
 	margin: 0;
 /* linear gradient */
-	background-image: url("/images/super-chill-gradient-portrait-576x1024.jpeg");
+	background-image: url("../images/super-chill-gradient-landscape-1024x576.jpeg");
 	background-repeat: no-repeat;
 }
 
