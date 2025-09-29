@@ -250,4 +250,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   9. SVG animeren (https://www.youtube.com/watch?v=eSpHvESNcZQ vanaf 4:50)
   10. Scroll button theorie (https://developer.mozilla.org/en-US/docs/Web/CSS/::scroll-button)
 
+  Illustraties zijn zelf nagemaakt in illustrator, op basis van de originele Super Chill website.
+
 </details>
